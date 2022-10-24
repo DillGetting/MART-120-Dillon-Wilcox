@@ -1,0 +1,18 @@
+body {
+    background-color: darkturquoise;
+}
+h3.red {
+    color: red;
+}
+h1.red {
+    color: red;
+}
+h2.red {
+    color: #0a53be;
+}
+#specificID {
+    color: crimson;
+}
+#secondID {
+    color: crimson;
+}
