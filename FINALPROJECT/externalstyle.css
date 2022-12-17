@@ -1,0 +1,26 @@
+body {
+    background-color: darkslategray;
+}
+
+
+h1 {
+    background-color: black;
+    text-align: center;
+    color: firebrick;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+h2 {
+    background-color: rebeccapurple;
+    text-align: center;
+    color: orangered;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+h3 {
+    color: #6a1a21;
+    text-align: center;
+    font-family: Copperplate, Papyrus, fantasy;
+}
+
+
